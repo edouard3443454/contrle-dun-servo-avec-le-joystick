@@ -4,7 +4,9 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "servo": "*",
+        "Morse Chat": "github:edouard3443454/morse-chat#master"
     },
     "files": [
         "main.blocks",
